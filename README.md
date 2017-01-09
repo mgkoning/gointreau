@@ -24,7 +24,7 @@ Alternatively, once go is installed locally, the Tour can be started
 from the command line using the command:  
 go tool tour
 
-This runs the Go tour on the local machine.
+This runs the Go tour on the local machine. (Didn't work on Mac OS X for me, but did work on Windows.)
 
 # Using Go in Visual Studio Code
 There is a plug in for Visual Studio code that uses the Go tool ecosystem

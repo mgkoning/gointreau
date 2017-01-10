@@ -16,8 +16,8 @@ Go **isn't/doesn't have**:
 **Notable/special features**:
 * Multiple return values
 * Named return values
-* Defer keyword
 * Slices / arrays
 * Implicit interface implementation
+* Defer keyword
 * Goroutines
 * Channels / select
